@@ -3,6 +3,9 @@
 [![Pub](https://img.shields.io/pub/v/enhanced_http.svg)](https://pub.dartlang.org/packages/enhanced_http)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/andresaraujo/enhanced_http/master/LICENSE)
 
+## IMPORTANT !!!
+## This project has been migrated to the following [monorepo](https://github.com/sliit-foss/dart-cookbook) and will no longer be maintained here.
+
 A wrapper around the dart http package provided by Google (https://pub.dev/packages/http) which is inspired by axios
 
 ## Getting started
